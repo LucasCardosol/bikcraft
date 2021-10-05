@@ -1,2 +1,0 @@
-# bikcraft
-loja de bicicletas
